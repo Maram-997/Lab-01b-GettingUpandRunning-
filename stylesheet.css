@@ -1,0 +1,53 @@
+
+body {background-image: url('https://p4.wallpaperbetter.com/wallpaper/430/4/13/5bd0e9ce6bc10-wallpaper-preview.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+
+    h1{
+        color:LightCoral;
+        text-align: center;
+        background-color: MistyRose;
+        font-size: 55px;
+    }
+    h3{
+        text-align: center;
+        color:LightCoral ;
+        font-size: x-large;
+    }
+    span{
+        color:MistyRose;
+        font-size: x-large;
+    }
+   
+     
+    nav ol li {
+        color: purple;
+        font-size: xx-large;
+        font-style: italic ;
+        
+    }
+    li a {
+        color:purple;
+        border: 2px solid;
+        outline-style: outset;
+        outline-color: LightCoral;
+   
+    }
+    ul li {
+     margin:40px;
+     font-size: x-large;
+    }
+    .genres { 
+        color: Lavender;
+        font-size: 17px;
+        width: 350px;
+        height: 100px;
+        border: 1px dotted purple;
+        overflow: scroll;
+    }  
+    p {
+        color: mistyrose;
+        font-size:20px ;
+    }
+ 
